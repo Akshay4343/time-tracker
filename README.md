@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good Luck Akshay and Students!!!
+Good Luck Akshay and Students for your interview!!!
